@@ -3,11 +3,12 @@
 - [x] aledc.com
 - [x] Solución 100% Probada
 
-## Este Documento describe el procedimiento para hacer funcionar el módulo de php ImageMagic  en Windows con WAMPP Y PHP 7.1
+## Este Documento describe el procedimiento para hacer funcionar el módulo de php ImageMagic en Windows con WAMPP Y PHP 7.1
 
-Esta solución funcioará en Windows de 64 Bits, con la opción de Thread Enable.
+Esta solución fue probada en Windows 10 de 64 Bits, con la opción de php Thread Enable.
 
 1 - Descargar los archivos:  
+
  [ImageMagick-6.9.3-7-vc14-x64](https://drive.google.com/file/d/1nWAXI-DZPObBqGLROsSOHZFYur4SzN47/view?usp=sharing)   
  [php_imagick-3.4.3-7.1-ts-vc14-x64](https://drive.google.com/file/d/1yrjMDFAFr62XalgGfhkDYn-peRaeKtxi/view?usp=sharing)
 
