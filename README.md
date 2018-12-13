@@ -31,7 +31,7 @@ extension=php_imagick.dll
 Eso es todo.
 
 
-NOTA:  en caso de que tengas otra version de PHP distinta a la 7.1, o que tengas Thread discable, en este enlace podrás encontrat todas las versiones disponibles.
+NOTA:  en caso de que tengas otra version de PHP distinta a la 7.1, o que tengas Thread disable, en este enlace podrás encontrat todas las versiones disponibles.
 
-https://mlocati.github.io/articles/php-windows-imagick.html
+[ImageMagic Otras Versiones](https://mlocati.github.io/articles/php-windows-imagick.html)
 
