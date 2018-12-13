@@ -27,6 +27,9 @@ extension=php_imagick.dll
 
 6 - Verificar en el phpinfo()  buscando el texto "imagick" deberia aparecer como módulo.
 
+7 - Por último , he subido un archivo imagic.php  que contiene un ejemplo completo de ImageMagic que convertirá archivo 'ale.pdf' a un archivo jpg llamado 'archivo_de_salida.jpg' 
+ Este ejemplo tiene todo el código comentado de manera que puedas adaptarlo a tus necesidades.
+
 
 Eso es todo.
 
