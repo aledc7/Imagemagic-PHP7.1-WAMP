@@ -7,7 +7,9 @@
 
 Esta solución funcioará en Windows de 64 Bits, con la opción de Thread Enable.
 
-1 - Descargar los archivos [ImageMagick-6.9.3-7-vc14-x64](https://drive.google.com/file/d/1nWAXI-DZPObBqGLROsSOHZFYur4SzN47/view?usp=sharing)  y  [php_imagick-3.4.3-7.1-ts-vc14-x64](https://drive.google.com/file/d/1yrjMDFAFr62XalgGfhkDYn-peRaeKtxi/view?usp=sharing)
+1 - Descargar los archivos:  
+ [ImageMagick-6.9.3-7-vc14-x64](https://drive.google.com/file/d/1nWAXI-DZPObBqGLROsSOHZFYur4SzN47/view?usp=sharing)   
+ [php_imagick-3.4.3-7.1-ts-vc14-x64](https://drive.google.com/file/d/1yrjMDFAFr62XalgGfhkDYn-peRaeKtxi/view?usp=sharing)
 
 2 - Descomprimir "php_imagick-3.4.3-7.1-ts-vc14-x64" y copiar todo el contenido en la ruta:
 ```
