@@ -1,4 +1,4 @@
-# ImageMagic en Windows con WAMP y PHP7.1
+# ImageMagic en Windows con Wamp y php 7.1
 [<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
 
 
