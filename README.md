@@ -1,7 +1,9 @@
 # ImageMagic en Windows con WAMP y PHP7.1
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
 
 - [x] aledc.com
-- [x] Solución 100% Probada
+- [x] PHP 7
 
 ## Este Documento describe el procedimiento para hacer funcionar el módulo de php ImageMagic en Windows con WAMPP Y PHP 7.1
 
