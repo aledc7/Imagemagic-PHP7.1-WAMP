@@ -8,7 +8,7 @@
 - [x] aledc.com
 - [x] PHP 7
 
-## Este Documento describe el procedimiento para hacer funcionar el módulo de php ImageMagic en Windows con Wampp Y php 7.1
+Este Documento describe el procedimiento para hacer funcionar el módulo de php ImageMagic en Windows con Wampp Y php 7.1
 
 ImageMagic es un módulo de PHP qe permite obtener una imágen partiendo de un documento PDF.
 
